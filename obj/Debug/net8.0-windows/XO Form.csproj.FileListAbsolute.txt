@@ -1,0 +1,16 @@
+D:\Technical Materials\C#\Mohamed Hamdy\Day 11\Day 11\XO Form\bin\Debug\net8.0-windows\XO Form.exe
+D:\Technical Materials\C#\Mohamed Hamdy\Day 11\Day 11\XO Form\bin\Debug\net8.0-windows\XO Form.deps.json
+D:\Technical Materials\C#\Mohamed Hamdy\Day 11\Day 11\XO Form\bin\Debug\net8.0-windows\XO Form.runtimeconfig.json
+D:\Technical Materials\C#\Mohamed Hamdy\Day 11\Day 11\XO Form\bin\Debug\net8.0-windows\XO Form.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day 11\Day 11\XO Form\bin\Debug\net8.0-windows\XO Form.pdb
+D:\Technical Materials\C#\Mohamed Hamdy\Day 11\Day 11\XO Form\obj\Debug\net8.0-windows\XO_Form.Form1.resources
+D:\Technical Materials\C#\Mohamed Hamdy\Day 11\Day 11\XO Form\obj\Debug\net8.0-windows\XO Form.csproj.GenerateResource.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day 11\Day 11\XO Form\obj\Debug\net8.0-windows\XO Form.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical Materials\C#\Mohamed Hamdy\Day 11\Day 11\XO Form\obj\Debug\net8.0-windows\XO Form.AssemblyInfoInputs.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day 11\Day 11\XO Form\obj\Debug\net8.0-windows\XO Form.AssemblyInfo.cs
+D:\Technical Materials\C#\Mohamed Hamdy\Day 11\Day 11\XO Form\obj\Debug\net8.0-windows\XO Form.csproj.CoreCompileInputs.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day 11\Day 11\XO Form\obj\Debug\net8.0-windows\XO Form.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day 11\Day 11\XO Form\obj\Debug\net8.0-windows\refint\XO Form.dll
+D:\Technical Materials\C#\Mohamed Hamdy\Day 11\Day 11\XO Form\obj\Debug\net8.0-windows\XO Form.pdb
+D:\Technical Materials\C#\Mohamed Hamdy\Day 11\Day 11\XO Form\obj\Debug\net8.0-windows\XO Form.genruntimeconfig.cache
+D:\Technical Materials\C#\Mohamed Hamdy\Day 11\Day 11\XO Form\obj\Debug\net8.0-windows\ref\XO Form.dll
